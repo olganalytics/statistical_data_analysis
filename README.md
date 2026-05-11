@@ -67,3 +67,17 @@ install.packages("nortest")
 ```
 
 4. Uruchom skrypt.
+
+## Wizualizacje
+
+### Histogram poziomu promieniowania kosmicznego
+
+Analiza rozkładu danych wraz z estymacją średniej i 90% przedziałem ufności.
+
+![Histogram](histogram_promieniowania.png)
+
+### Rozkład t-Studenta z obszarem krytycznym
+
+Wizualizacja testu t-Studenta z zaznaczonym obszarem krytycznym oraz wartością statystyki testowej.
+
+![Rozkład t](rozklad_t_studenta.png)
