@@ -42,7 +42,7 @@ Dla danych dotyczących mas nowo odkrytych planet:
 - **ggplot2**
 - **nortest**
 
-## Czego nauczyłam się w projekcie
+## Czego nauczyłam się podczas projektu
 
 - praktycznego wykorzystania testów statystycznych,
 - budowy przedziałów ufności,
