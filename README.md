@@ -52,21 +52,16 @@ Dla danych dotyczących mas nowo odkrytych planet:
 
 ## Uruchomienie
 
-1. Pobierz repozytorium:
-```bash
-git clone [link]
-```
+1. Otwórz plik `statistical_data_analysis.R` w RStudio.
 
-2. Otwórz plik `statistical_data_analysis.R` w RStudio.
-
-3. Zainstaluj wymagane biblioteki:
+2. Zainstaluj wymagane biblioteki:
 
 ```r
 install.packages("ggplot2")
 install.packages("nortest")
 ```
 
-4. Uruchom skrypt.
+3. Uruchom skrypt.
 
 ## Wizualizacje
 
